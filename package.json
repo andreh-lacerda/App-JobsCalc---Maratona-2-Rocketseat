@@ -1,0 +1,20 @@
+{
+  "name": "App-JobsCalc---Maratona-2-Rocketseat",
+  "version": "1.0.0",
+  "description": "Maratona 2 Discover da Rocket Seat, onde é criado uma calculadora para Dev Freelancer, com perfil do usuário, gastos mensais, horas de trabalho semanais. Maratona com maior foco em backend, utilizando NODE.js., EJS e SQLite.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreh-lacerda/App-JobsCalc---Maratona-2-Rocketseat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreh-lacerda/App-JobsCalc---Maratona-2-Rocketseat/issues"
+  },
+  "homepage": "https://github.com/andreh-lacerda/App-JobsCalc---Maratona-2-Rocketseat#readme"
+}
