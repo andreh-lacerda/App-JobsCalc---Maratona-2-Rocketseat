@@ -4,7 +4,8 @@
   "description": "Maratona 2 Discover da Rocket Seat, onde é criado uma calculadora para Dev Freelancer, com perfil do usuário, gastos mensais, horas de trabalho semanais. Maratona com maior foco em backend, utilizando NODE.js., EJS e SQLite.",
   "main": "src/server.js",
   "scripts": {
-    "dev": "nodemon ."
+    "dev": "nodemon .",
+    "init-db":"node src/db/init.js"
   },
   "repository": {
     "type": "git",
@@ -19,7 +20,9 @@
   "homepage": "https://github.com/andreh-lacerda/App-JobsCalc---Maratona-2-Rocketseat#readme",
   "dependencies": {
     "ejs": "^3.1.6",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "sqlite": "^4.0.22",
+    "sqlite3": "^5.0.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
